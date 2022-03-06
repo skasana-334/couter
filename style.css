@@ -1,0 +1,9 @@
+body{
+background-color: grey;
+display: flex;
+align-items: center;
+justify-content: center;
+text-align: center;
+min-height: 100vh;/* to applied align item height should be given to container but if u're doing it in a class like btn or ..u don't have to*/
+color: aqua;
+}
